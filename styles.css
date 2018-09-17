@@ -1,0 +1,57 @@
+html{
+	background-image: url(background.png);
+	background-size:cover;
+}
+
+h1 {
+	font-family: 'Cormorant Unicase', serif;
+	font-family: 'Amatic SC', cursive;
+	font-family: 'VT323', monospace;
+	text-align:center;
+	color:#006400;
+	font-size: 5em;
+	
+}
+#button {
+    display:block;
+    color:white;
+    background:rgba(0,0,0,.3);
+    box-shadow: 0 0 5px -1px rgba(0,0,0,0.2);
+    cursor:url(sword.gif), auto;
+    vertical-align:middle;
+    max-width: 100px;
+    padding: 5px;
+    text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	font-family: 'Cormorant Unicase', serif;
+	font-family: 'Amatic SC', cursive;
+	font-family: 'VT323', monospace;
+	font-size:1.5em;
+}
+
+#result {
+	text-align:center;
+	color:red;
+	font-family: 'Cormorant Unicase', serif;
+	font-family: 'Amatic SC', cursive;
+	font-family: 'VT323', monospace;
+	font-size:2em;
+}
+h2 {
+	text-align:center;
+	color:#006400;
+	font-family: 'Cormorant Unicase', serif;
+	font-family: 'Amatic SC', cursive;
+	font-family: 'VT323', monospace;
+	font-size:2em;
+	
+}
+#death {
+	text-align:center;
+	color:red;
+	font-family: 'Cormorant Unicase', serif;
+	font-family: 'Amatic SC', cursive;
+	font-family: 'VT323', monospace;
+	font-size:2em;
+}
